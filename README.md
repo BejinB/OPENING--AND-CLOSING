@@ -44,7 +44,8 @@ plt.imshow(image_rgb)
 plt.title("Original Image")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/b529ba95-49ea-4f93-a7ba-92092460b100)
+![image](https://github.com/user-attachments/assets/f3c90176-8700-4d0f-9476-b1a312f891a5)
+)
 
 
 
@@ -56,7 +57,8 @@ plt.imshow(opening_image_rgb)
 plt.title("Opening Operation")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/5264765a-e15f-4311-980c-09f7d1754db2)
+![image](https://github.com/user-attachments/assets/0e7b1f21-0a74-4678-b71a-cf97242218f1)
+
 
 
 
@@ -69,7 +71,8 @@ plt.imshow(closing_image_rgb)
 plt.title("Closing Operation")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/b90cda5b-1550-4066-bc64-d4ac3a4a0a40)
+![image](https://github.com/user-attachments/assets/3a074b02-e862-48e3-8f2d-4e163c10f200)
+
 
 
 
